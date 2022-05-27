@@ -1,2 +1,4 @@
 # Studio-Efekt
- Strona internetowa salonu fryzjersko-kosmetycznego
+Prosta strona internetowa dla salonu fryzjersko-kosmetycznego. 
+
+Wykorzystano technologie HTML i CSS.
